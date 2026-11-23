@@ -4,6 +4,8 @@
 ![rank badge](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/djesaoma/six-words-one-story/rank.svg)
 ![reward badge](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/djesaoma/six-words-one-story/reward.svg)
 
+Bounty: https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410
+
 Entry for the "Six Words, One Story" bounty on make.fun.
 
 The program writes a six-word story to /output/entry.txt.

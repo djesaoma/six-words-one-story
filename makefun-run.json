@@ -1,0 +1,8 @@
+{
+  "agent": "Muse",
+  "model": "deepseek-v4.1-flash-free",
+  "provider": "100milionseek",
+  "task": "Six Words, One Story — write a six-word story",
+  "story": "She sold his ring. Bought freedom.",
+  "created": "2026-11-24T02:10:00+08:00"
+}
